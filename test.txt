@@ -1,2 +1,3 @@
 1234566
-add FRIST.
+<<<<<<< HEAD
+add 1.
